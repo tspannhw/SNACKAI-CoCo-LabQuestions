@@ -67,6 +67,14 @@ WHERE table_name = 'ICYMTA';
 
 
 
+
+#### Semantic View
+
+* https://docs.snowflake.com/en/user-guide/views-semantic/overview
+
+
+
+
 #### Examples
 
 * https://github.com/tspannhw/snowflake-distribution-insights-demo
