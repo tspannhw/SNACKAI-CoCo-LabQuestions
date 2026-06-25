@@ -10,6 +10,13 @@
 
 * https://docs.snowflake.com/en/user-guide/ui-snowsight-universal-search
 
+
+
+
+#### Make Your Tables Discoverable / Internal marketplace / Tagging / AI Descriptions
+
+* https://docs.snowflake.com/en/sql-reference/account-usage/tag_references
+  
 * https://www.snowflake.com/en/product/use-cases/internal-marketplace/
 
 * https://www.snowflake.com/en/developers/guides/internal-marketplace-intra-org-sharing/
@@ -21,14 +28,32 @@
 
 #### Find Tables
 
+
+##### Note:  DEMO is the name of my database
+
 ````
 SELECT table_catalog, table_schema, table_name, row_count, comment
 FROM DEMO.INFORMATION_SCHEMA.TABLES
 WHERE table_schema != 'INFORMATION_SCHEMA'
 ORDER BY row_count DESC;
 
+SELECT column_name, data_type, comment
+FROM DEMO.INFORMATION_SCHEMA.COLUMNS
+WHERE table_name = 'ICYMTA';
+
 ````
 
 
+
+#### Streamlit
+
+
+* https://streamlit.io/
+
+* https://docs.streamlit.io/get-started/installation/streamlit-in-snowflake
+  
+* https://docs.snowflake.com/en/developer-guide/streamlit/getting-started/overview
+  
+* https://docs.snowflake.com/en/developer-guide/streamlit/app-development/creating-your-app
 
 
