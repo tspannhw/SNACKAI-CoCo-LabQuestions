@@ -72,9 +72,19 @@ WHERE table_name = 'ICYMTA';
 
 * https://docs.snowflake.com/en/user-guide/views-semantic/overview
 
+* https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-analyst
 
 
 
+
+#### Workspaces not Worksheets (SQL, Python, Jupyter Notebooks)
+
+* https://docs.snowflake.com/en/user-guide/ui-workspaces-python
+
+* https://docs.snowflake.com/en/user-guide/ui-snowsight/notebooks-in-workspaces/notebooks-in-workspaces-overview
+
+  
+  
 #### Examples
 
 * https://github.com/tspannhw/snowflake-distribution-insights-demo
