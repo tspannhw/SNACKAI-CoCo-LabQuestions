@@ -2,6 +2,7 @@
 
 
 
+
 #### Identify Tables
 
 * https://www.snowflake.com/en/product/features/horizon/
@@ -9,6 +10,7 @@
 * https://docs.snowflake.com/en/sql-reference/info-schema
 
 * https://docs.snowflake.com/en/user-guide/ui-snowsight-universal-search
+
 
 
 
@@ -28,7 +30,9 @@
 
 
 
+
 #### Find Tables
+
 
 
 ##### Note:  DEMO is the name of my database
@@ -57,6 +61,8 @@ WHERE table_name = 'ICYMTA';
 * https://docs.snowflake.com/en/developer-guide/streamlit/getting-started/overview
   
 * https://docs.snowflake.com/en/developer-guide/streamlit/app-development/creating-your-app
+
+* https://docs.snowflake.com/en/developer-guide/streamlit/about-streamlit
 
 
 
