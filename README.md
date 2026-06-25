@@ -143,6 +143,22 @@ JOIN ASSET_INVENTORY ai
 * https://github.com/tspannhw/snowflake-distribution-insights-demo
 
 
+#### Alerts
+
+* https://docs.snowflake.com/en/user-guide/alerts
+* https://docs.snowflake.com/en/user-guide/notifications/about-notifications
+  
+
+#### Performance Enhancements
+
+* https://docs.snowflake.com/en/user-guide/warehouses-gen2
+* https://docs.snowflake.com/en/user-guide/warehouses-adaptive
+* https://docs.snowflake.com/en/user-guide/query-acceleration-service
+* https://docs.snowflake.com/en/user-guide/warehouses-considerations
+* https://docs.snowflake.com/en/guides-overview-performance
+* https://docs.snowflake.com/en/user-guide/snowflake-optima
+* https://docs.snowflake.com/en/user-guide/performance-explorer
+* https://www.snowflake.com/en/product/use-cases/well-architected-framework/
 
 
 #### References
@@ -150,5 +166,10 @@ JOIN ASSET_INVENTORY ai
 
 * https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/247-22June2026.md
 * https://www.snowflake.com/en/developers/guides/coco-foundations/
+* https://docs.snowflake.com/en/user-guide/trust-center/overview
+* https://docs.snowflake.com/en/user-guide/cortex-code/data-platforms
+* https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code-mcp
+* https://docs.snowflake.com/en/user-guide/cortex-code/extensibility
+* https://docs.snowflake.com/en/user-guide/cortex-code-agent-sdk/cortex-code-agent-sdk
 
   
