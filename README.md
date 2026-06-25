@@ -13,3 +13,5 @@
 * https://www.snowflake.com/en/product/use-cases/internal-marketplace/
 
 * https://www.snowflake.com/en/developers/guides/internal-marketplace-intra-org-sharing/
+
+* https://docs.snowflake.com/en/user-guide/sql-cortex-descriptions
