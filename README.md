@@ -78,7 +78,12 @@ WHERE table_name = 'ICYMTA';
 * https://docs.snowflake.com/en/user-guide/views-semantic/overview
 
 * https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-analyst
+  
+* https://www.snowflake.com/en/blog/engineering/native-semantic-views-ai-bi/
 
+* https://docs.snowflake.com/en/user-guide/views-semantic/editor
+
+* https://docs.snowflake.com/en/user-guide/views-semantic/autopilot
 
 
 
@@ -91,6 +96,22 @@ WHERE table_name = 'ICYMTA';
 * https://docs.snowflake.com/en/developer-guide/streamlit/streamlit-in-workspaces/streamlit-in-workspaces-overview
   
 * https://docs.snowflake.com/en/user-guide/ui-snowsight/workspaces-git
+
+
+
+
+#### DEMO SQL
+
+````
+
+USE SCHEMA CTF.PUBLIC;
+
+SELECT * FROM VULNERABILITIES;
+
+````
+
+
+
   
 #### Examples
 
