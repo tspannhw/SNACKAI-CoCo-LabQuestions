@@ -17,3 +17,18 @@
 * https://docs.snowflake.com/en/user-guide/sql-cortex-descriptions
 
 * https://docs.snowflake.com/en/user-guide/ui-snowsight-cortex-descriptions
+
+
+#### Find Tables
+
+````
+SELECT table_catalog, table_schema, table_name, row_count, comment
+FROM DEMO.INFORMATION_SCHEMA.TABLES
+WHERE table_schema != 'INFORMATION_SCHEMA'
+ORDER BY row_count DESC;
+
+````
+
+
+
+
