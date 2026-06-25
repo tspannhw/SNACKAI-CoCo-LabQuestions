@@ -2,6 +2,10 @@
 
 
 
+#### IP Tools
+
+* https://ipinfo.io/integrations/snowflake
+
 
 #### Identify Tables
 
@@ -10,6 +14,7 @@
 * https://docs.snowflake.com/en/sql-reference/info-schema
 
 * https://docs.snowflake.com/en/user-guide/ui-snowsight-universal-search
+
 
 
 
