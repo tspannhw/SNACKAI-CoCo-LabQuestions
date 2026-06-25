@@ -59,3 +59,9 @@ WHERE table_name = 'ICYMTA';
 * https://docs.snowflake.com/en/developer-guide/streamlit/app-development/creating-your-app
 
 
+
+
+#### Examples
+
+* https://github.com/tspannhw/snowflake-distribution-insights-demo
+
