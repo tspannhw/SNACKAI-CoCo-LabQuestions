@@ -149,5 +149,6 @@ JOIN ASSET_INVENTORY ai
 
 
 * https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/247-22June2026.md
+* https://www.snowflake.com/en/developers/guides/coco-foundations/
 
   
