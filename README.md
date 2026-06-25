@@ -13,6 +13,7 @@
 
 
 
+
 #### Make Your Tables Discoverable / Internal marketplace / Tagging / AI Descriptions
 
 * https://docs.snowflake.com/en/sql-reference/account-usage/tag_references
@@ -24,6 +25,7 @@
 * https://docs.snowflake.com/en/user-guide/sql-cortex-descriptions
 
 * https://docs.snowflake.com/en/user-guide/ui-snowsight-cortex-descriptions
+
 
 
 #### Find Tables
