@@ -88,7 +88,9 @@ WHERE table_name = 'ICYMTA';
 
 * https://docs.snowflake.com/en/user-guide/ui-snowsight/notebooks-in-workspaces/notebooks-in-workspaces-overview
 
+* https://docs.snowflake.com/en/developer-guide/streamlit/streamlit-in-workspaces/streamlit-in-workspaces-overview
   
+* https://docs.snowflake.com/en/user-guide/ui-snowsight/workspaces-git
   
 #### Examples
 
