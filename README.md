@@ -142,3 +142,12 @@ JOIN ASSET_INVENTORY ai
 
 * https://github.com/tspannhw/snowflake-distribution-insights-demo
 
+
+
+
+#### References
+
+
+* https://github.com/tspannhw/AllDataAndAIWeekly/blob/main/2026/247-22June2026.md
+
+  
